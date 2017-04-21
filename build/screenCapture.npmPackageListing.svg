@@ -1,33 +1,33 @@
 <svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="478" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 12:16:15 +0000   656621 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 12:16:15 +0000     2042 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 12:16:15 +0000      324 bytes  bower.json</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 12:16:15 +0000     8163 bytes  daterangepicker.css</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 12:16:15 +0000    69704 bytes  daterangepicker.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 12:16:15 +0000    14854 bytes  daterangepicker.scss</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 12:16:15 +0000    13199 bytes  demo.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 12:16:15 +0000   216210 bytes  drp.png</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 12:16:15 +0000     6953 bytes  example/amd/index.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 12:16:15 +0000     4636 bytes  example/amd/main.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 12:16:15 +0000    15924 bytes  example/amd/require.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 12:16:15 +0000      180 bytes  example/browserify/README.md</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 12:16:15 +0000        0 bytes  example/browserify/bundle.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 12:16:15 +0000     6931 bytes  example/browserify/index.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 12:16:15 +0000     4467 bytes  example/browserify/main.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 12:16:15 +0000     4286 bytes  favicon.ico</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 12:16:15 +0000    44920 bytes  index.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 12:16:15 +0000     1780 bytes  mobile.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 12:16:15 +0000   134906 bytes  moment.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 12:16:15 +0000    46645 bytes  moment.min.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 12:16:15 +0000      573 bytes  package.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 12:16:15 +0000      884 bytes  package.json</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 12:16:15 +0000        0 bytes  robots.txt</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 12:16:15 +0000     2034 bytes  website.css</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 12:16:15 +0000     5026 bytes  website.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 12:16:15 +0000    44920 bytes  website/index.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 12:16:15 +0000     2034 bytes  website/website.css</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 12:16:15 +0000     5026 bytes  website/website.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 12:17:22 +0000   656621 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 12:17:22 +0000     2042 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 12:17:22 +0000      324 bytes  bower.json</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 12:17:22 +0000     8163 bytes  daterangepicker.css</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 12:17:22 +0000    69704 bytes  daterangepicker.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 12:17:22 +0000    14854 bytes  daterangepicker.scss</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 12:17:22 +0000    13199 bytes  demo.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 12:17:22 +0000   216210 bytes  drp.png</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 12:17:22 +0000     6953 bytes  example/amd/index.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 12:17:22 +0000     4636 bytes  example/amd/main.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 12:17:22 +0000    15924 bytes  example/amd/require.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 12:17:22 +0000      180 bytes  example/browserify/README.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 12:17:22 +0000        0 bytes  example/browserify/bundle.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 12:17:22 +0000     6931 bytes  example/browserify/index.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 12:17:22 +0000     4467 bytes  example/browserify/main.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 12:17:22 +0000     4286 bytes  favicon.ico</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 12:17:22 +0000    44920 bytes  index.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 12:17:22 +0000     1780 bytes  mobile.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 12:17:22 +0000   134906 bytes  moment.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 12:17:22 +0000    46645 bytes  moment.min.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 12:17:22 +0000      573 bytes  package.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 12:17:22 +0000      884 bytes  package.json</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 12:17:22 +0000        0 bytes  robots.txt</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 12:17:22 +0000     2034 bytes  website.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 12:17:22 +0000     5026 bytes  website.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 12:17:22 +0000    44920 bytes  website/index.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 12:17:22 +0000     2034 bytes  website/website.css</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 12:17:22 +0000     5026 bytes  website/website.js</tspan>
 </text>
 </svg>
